@@ -23,3 +23,4 @@ description:
 >* 长度
 >* 容量
 
+{% asset_img slice.png slice的底层结构%}
